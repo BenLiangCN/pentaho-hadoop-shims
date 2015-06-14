@@ -11,5 +11,5 @@
   <groupId>pentaho</groupId>
   <artifactId>pentaho-hadoop-shims-emr34-package</artifactId>
   <packaging>zip</packaging>
-  <version>54.2015.06.00</version>
+  <version>54.2015.06.01</version>
 </project>
